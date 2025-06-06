@@ -1,0 +1,19 @@
+Transaction Date: 2025-06-06T13:32:00.422566200
+Customer: yevgeni
+Items:
+- Chinese-Style Fried Chicken Rice Meal | Quantity: 1 | Price: 88.00
+- Pork Siomai Chaofan | Quantity: 2 | Price: 180.00
+- Pork Chaofan | Quantity: 2 | Price: 110.00
+Total Amount: 283.50
+--------------------------------------------
+
+
+Transaction Date: 2025-06-06T13:32:29.359947400
+Customer: admin
+Items:
+- Chinese-Style Pork Chop | Quantity: 2 | Price: 210.00
+Total Amount: 157.50
+--------------------------------------------
+
+
+
